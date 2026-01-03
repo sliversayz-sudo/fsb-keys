@@ -1,0 +1,19 @@
+{
+  "keys": [
+    {
+      "key": "FSB2024-ABCD-1234-EFGH",
+      "hwid": "",
+      "days": 4,
+      "status": "active",
+      "created": "2026-01-01"
+    },
+    {
+      "key": "FSB2024-IJKL-5678-MNOP",
+      "hwid": "",
+      "days": 7,
+      "status": "active",
+      "created": "2026-01-01"
+    }
+  ],
+  "last_update": "2026-01-01 12:00:00"
+}
