@@ -7,6 +7,12 @@
       "status": "active"
     },
     {
+      "key": "test",
+      "hwid": "",
+      "days": 1,
+      "status": "active"
+    },
+    {
       "key": "FSB2024-ABCD-EFGH",
       "hwid": "",
       "days": 60,
@@ -15,3 +21,4 @@
   ],
   "count": 2
 }
+
